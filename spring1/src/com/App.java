@@ -1,0 +1,20 @@
+package com;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	ApplicationContext context = 
+    	   new ClassPathXmlApplicationContext(new String[] {"Spring.xml"});
+
+    	OutputHelper output = (OutputHelper)context.getBean("OutputHelper");
+    	output.generateOutput();
+    	  
+    }
+}
+//spring松耦合实例
+//现在，只需要改变 Spring XML 文件使用不同的输出生成器。
+//只修改 Spring XML 文件而不需要无码修改，这意味着更少的错误。

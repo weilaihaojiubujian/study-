@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="CustomerBean" class="wang.Customer">
+	
+		<constructor-arg type="java.lang.String">
+			<value>yiibai</value>
+		</constructor-arg>
+		
+		<constructor-arg type="java.lang.String">
+			<value>188</value>
+		</constructor-arg>
+		
+		<constructor-arg type="int">
+			<value>28</value>
+		</constructor-arg>
+		
+	</bean>
+
+</beans>
+<!-- 在Spring框架中，当一个类包含多个构造函数带的参数相同，它总是会造成构造函数注入参数类型歧义的问题。-->
+
+<!-- 不能像下面一样，要和上面一样把类型写出来-->
+<!-- <bean id="CustomerBean" class="com.yiibai.common.Customer">
+
+		<constructor-arg>
+			<value>yiibai</value>
+		</constructor-arg>
+		
+		<constructor-arg>
+			<value>188</value>
+		</constructor-arg>
+		
+		<constructor-arg>
+			<value>28</value>
+		</constructor-arg>
+        </bean>-->

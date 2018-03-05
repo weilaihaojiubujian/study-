@@ -1,0 +1,9 @@
+package JavaConfig.Import;
+
+public class CustomerConfig {
+
+	public CustomerConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

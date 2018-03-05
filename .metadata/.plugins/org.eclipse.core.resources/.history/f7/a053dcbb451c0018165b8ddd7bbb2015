@@ -1,0 +1,9 @@
+package com;
+
+public class JsonOutputGenerator {
+
+	public JsonOutputGenerator() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

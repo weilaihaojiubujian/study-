@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.9.2.201712210913-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/s.xml</config>
+		<config>src/applicationContext.xml</config>
+		<config>src/Spring.xml</config>
+		<config>src/Spring1.xml</config>
+		<config>src/Spring2.xml</config>
+		<config>src/Spring3.xml</config>
+		<config>src/Spring4.xml</config>
+		<config>src/Spring5.xml</config>
+		<config>src/Spring6.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>

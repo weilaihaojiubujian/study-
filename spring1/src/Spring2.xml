@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+ <bean id="customerService" 
+            class="SpringBean.CustomerService" />
+
+</beans>
+<!-- 单例 - 每个Spring IoC 容器返回一个bean实例-->
+
+<!-- <bean id="customerService" class="SpringBean.CustomerService" 
+         scope="prototype"/>-->
+         
+         <!-- 原型- 当每次请求时返回一个新的bean实例-->

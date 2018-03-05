@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="OutputHelper" class="com.OutputHelper">
+		<property name="outputGenerator" ref="CsvOutputGenerator" />
+	</bean>
+	
+	<bean id="CsvOutputGenerator" class="com.CsvOutputGenerator" />
+	<bean id="JsonOutputGenerator" class="com.JsonOutputGenerator" />
+
+</beans>
+<!-- 这是Setter方法注入-->
+<!-- 这是构造器注入-->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+	<bean id="OutputHelper" class="com.yiibai.output.OutputHelper">
+		<constructor-arg>
+			<bean class="com.yiibai.output.impl.CsvOutputGenerator" />
+		</constructor-arg>
+	</bean>
+	
+<bean id="CsvOutputGenerator" class="com.yiibai.output.impl.CsvOutputGenerator" />
+<bean id="JsonOutputGenerator" class="com.yiibai.output.impl.JsonOutputGenerator" />
+		
+</beans>-->

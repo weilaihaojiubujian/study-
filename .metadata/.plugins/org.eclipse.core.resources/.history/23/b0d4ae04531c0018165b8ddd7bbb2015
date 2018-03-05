@@ -1,0 +1,9 @@
+package i;
+
+public class HelloWorldImpl {
+
+	public HelloWorldImpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

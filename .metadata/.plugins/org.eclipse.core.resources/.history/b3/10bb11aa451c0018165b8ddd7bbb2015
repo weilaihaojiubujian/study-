@@ -1,0 +1,9 @@
+package com;
+
+public class CsvOutputGenerator {
+
+	public CsvOutputGenerator() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

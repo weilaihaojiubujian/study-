@@ -1,0 +1,9 @@
+package com;
+
+public class OutputHelper {
+
+	public OutputHelper() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

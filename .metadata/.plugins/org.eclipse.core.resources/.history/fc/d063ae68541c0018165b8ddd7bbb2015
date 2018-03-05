@@ -1,0 +1,9 @@
+package JavaConfig.Import;
+
+public class SchedulerConfig {
+
+	public SchedulerConfig() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

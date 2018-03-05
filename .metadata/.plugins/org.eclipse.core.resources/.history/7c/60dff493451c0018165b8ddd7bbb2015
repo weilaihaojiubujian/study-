@@ -1,0 +1,9 @@
+package com;
+
+public class IOutputGenerator {
+
+	public IOutputGenerator() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

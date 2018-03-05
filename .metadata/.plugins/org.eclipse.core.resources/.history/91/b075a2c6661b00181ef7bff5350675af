@@ -1,0 +1,9 @@
+package springDemo;
+
+public class SpringTest {
+
+	public SpringTest() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

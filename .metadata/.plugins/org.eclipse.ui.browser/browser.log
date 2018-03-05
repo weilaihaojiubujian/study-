@@ -1,0 +1,385 @@
+
+2月 12, 2018 14:34:38.60 NEW SESSION
+2月 12, 2018 14:34:38.60 [19356:7224:0212/143438.600:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 12, 2018 14:34:38.60 [19356:7224:0212/143438.609:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 12, 2018 14:35:04.79 [19356:7224:0212/143504.791:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 12, 2018 14:35:05.78 [19356:7224:0212/143505.785:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 12, 2018 14:35:18.76 [19356:9896:0212/143518.766:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 12, 2018 14:35:18.77 [19356:9896:0212/143518.767:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 12, 2018 14:35:18.95 [19356:9896:0212/143518.950:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-130).
+2月 12, 2018 14:36:03.49 [19356:7224:0212/143603.497:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 12, 2018 14:36:03.69 [19356:7224:0212/143603.689:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 12, 2018 14:37:28.34 [19356:7224:0212/143728.343:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 12, 2018 14:37:52.33 [19356:7224:0212/143752.337:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 12, 2018 14:40:53.07 [19356:7224:0212/144053.073:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 12, 2018 14:41:28.27 [19356:7224:0212/144128.273:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 12, 2018 14:46:08.25 [19356:9896:0212/144608.259:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 12, 2018 14:46:36.23 [19356:9896:0212/144636.232:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 12, 2018 14:46:54.86 [19356:7224:0212/144654.865:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 12, 2018 14:47:24.37 [19356:9896:0212/144724.372:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+2月 13, 2018 13:09:08.25 NEW SESSION
+2月 13, 2018 13:09:08.25 [12980:36740:0213/130908.248:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:09:08.51 [12980:36740:0213/130908.517:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:09:30.86 [12980:36740:0213/130930.863:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:09:37.48 [12980:36740:0213/130937.488:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:09:56.44 [12980:26520:0213/130956.446:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 13, 2018 13:09:56.44 [12980:26520:0213/130956.446:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 13, 2018 13:10:23.17 [12980:36740:0213/131023.173:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:10:29.64 [12980:36740:0213/131029.648:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:11:56.50 [12980:36740:0213/131156.508:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:12:12.78 [12980:36740:0213/131212.717:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:14:55.69 [12980:36740:0213/131455.697:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:15:29.73 [12980:36740:0213/131529.731:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:19:59.39 [12980:26520:0213/131959.395:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:20:22.54 [12980:26520:0213/132022.542:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:21:15.49 [12980:36740:0213/132115.496:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:21:17.12 [12980:26520:0213/132117.120:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:21:21.95 [12980:36740:0213/132121.952:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:22:58.66 [12980:26520:0213/132258.669:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:25:50.62 [12980:26520:0213/132550.626:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:31:16.49 [12980:36740:0213/133116.499:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:31:22.96 [12980:36740:0213/133122.963:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:32:36.85 [12980:26520:0213/133236.854:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:41:17.51 [12980:36740:0213/134117.516:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:41:23.98 [12980:36740:0213/134123.982:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:42:37.89 [12980:26520:0213/134237.893:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 13:51:18.57 [12980:36740:0213/135118.576:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 13:51:25.01 [12980:36740:0213/135125.012:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 13:52:38.90 [12980:26520:0213/135238.909:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 14:01:19.58 [12980:36740:0213/140119.584:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 14:01:26.03 [12980:36740:0213/140126.033:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 14:02:39.92 [12980:26520:0213/140239.923:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 14:11:20.60 [12980:36740:0213/141120.605:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 14:11:27.04 [12980:36740:0213/141127.047:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 14:12:40.93 [12980:26520:0213/141240.936:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 14:21:21.62 [12980:36740:0213/142121.626:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 14:21:28.05 [12980:36740:0213/142128.053:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 14:22:41.95 [12980:26520:0213/142241.950:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 14:31:22.64 [12980:36740:0213/143122.646:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 14:31:29.06 [12980:36740:0213/143129.064:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 14:32:42.97 [12980:26520:0213/143242.974:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 14:35:11.31 [12980:26520:0213/143511.310:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-130).
+2月 13, 2018 14:41:25.25 [12980:36740:0213/144125.251:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 14:41:30.12 [12980:36740:0213/144130.121:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 14:42:44.04 [12980:26520:0213/144244.022:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 14:51:26.26 [12980:36740:0213/145126.264:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 14:51:31.13 [12980:36740:0213/145131.137:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 14:52:45.04 [12980:26520:0213/145245.039:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 15:01:27.27 [12980:36740:0213/150127.276:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 15:01:32.15 [12980:36740:0213/150132.155:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 15:02:46.05 [12980:26520:0213/150246.052:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 15:11:28.28 [12980:36740:0213/151128.287:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 15:11:33.16 [12980:36740:0213/151133.169:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 15:12:47.07 [12980:26520:0213/151247.075:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 15:21:29.31 [12980:36740:0213/152129.316:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 15:21:34.19 [12980:36740:0213/152134.190:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 15:22:48.08 [12980:26520:0213/152248.083:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 15:31:30.33 [12980:36740:0213/153130.331:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 15:31:35.19 [12980:36740:0213/153135.193:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 15:32:49.10 [12980:26520:0213/153249.100:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 15:41:31.80 [12980:36740:0213/154131.725:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 15:41:36.30 [12980:36740:0213/154136.308:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 15:42:50.17 [12980:26520:0213/154250.177:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 15:51:32.77 [12980:36740:0213/155132.767:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 15:51:37.32 [12980:36740:0213/155137.323:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 15:52:51.19 [12980:26520:0213/155251.190:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 16:01:33.77 [12980:36740:0213/160133.773:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 16:01:38.32 [12980:36740:0213/160138.327:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 16:02:52.19 [12980:26520:0213/160252.194:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 16:11:34.79 [12980:36740:0213/161134.799:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 16:11:39.33 [12980:36740:0213/161139.332:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 16:12:53.20 [12980:26520:0213/161253.203:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 16:21:35.93 [12980:36740:0213/162135.892:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 16:21:40.37 [12980:36740:0213/162140.371:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 16:22:54.22 [12980:26520:0213/162254.224:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 16:31:36.89 [12980:36740:0213/163136.897:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 16:31:41.37 [12980:36740:0213/163141.375:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 16:32:55.22 [12980:26520:0213/163255.229:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 16:41:37.90 [12980:36740:0213/164137.908:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 16:41:42.37 [12980:36740:0213/164142.378:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 16:42:56.24 [12980:26520:0213/164256.243:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 16:51:38.92 [12980:36740:0213/165138.926:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 16:51:43.38 [12980:36740:0213/165143.388:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 16:52:57.24 [12980:26520:0213/165257.248:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 17:01:39.94 [12980:36740:0213/170139.944:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 17:01:44.40 [12980:36740:0213/170144.402:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 17:02:58.26 [12980:26520:0213/170258.261:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 17:11:40.96 [12980:36740:0213/171140.965:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 17:11:45.41 [12980:36740:0213/171145.418:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 17:12:59.27 [12980:26520:0213/171259.275:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 17:13:36.92 [12980:26520:0213/171336.922:ERROR:CONSOLE(22)] "Empty response arrived for script 'https://chrome-devtools-frontend.appspot.com/serve_file/@1f3c0cf4b3083dfbe4da434af1726820cf384ce3/product_registry_impl/product_registry_impl_module.js'", source: chrome-devtools://devtools/bundled/inspector.js (22)
+2月 13, 2018 17:13:36.92 [12980:26520:0213/171336.923:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:13:36.92 [12980:26520:0213/171336.923:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:13:36.92 [12980:26520:0213/171336.923:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:03.97 [12980:26520:0213/171503.970:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:03.97 [12980:26520:0213/171503.970:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:05.71 [12980:26520:0213/171505.710:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:05.71 [12980:26520:0213/171505.710:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:13.58 [12980:26520:0213/171513.585:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:13.62 [12980:26520:0213/171513.628:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:13.62 [12980:26520:0213/171513.628:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:13.64 [12980:26520:0213/171513.638:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:15.36 [12980:26520:0213/171515.367:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:15.40 [12980:26520:0213/171515.400:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:15.40 [12980:26520:0213/171515.400:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:20.94 [12980:26520:0213/171520.949:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:15:20.94 [12980:26520:0213/171520.949:ERROR:CONSOLE(109)] "Uncaught (in promise) Error: Could not instantiate: ProductRegistryImpl.Registry", source: chrome-devtools://devtools/bundled/inspector.js (109)
+2月 13, 2018 17:21:41.98 [12980:36740:0213/172141.983:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 17:21:46.43 [12980:36740:0213/172146.430:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 17:23:00.28 [12980:26520:0213/172300.287:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 13, 2018 17:31:43.00 [12980:36740:0213/173143.007:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 13, 2018 17:31:47.44 [12980:36740:0213/173147.442:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 13, 2018 17:33:01.31 [12980:26520:0213/173301.311:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+2月 15, 2018 12:31:54.39 NEW SESSION
+2月 15, 2018 12:31:54.39 [11008:200:0215/123154.392:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:31:55.26 [11008:200:0215/123155.264:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:32:21.96 [11008:200:0215/123221.965:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:32:22.50 [11008:200:0215/123222.508:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:32:45.55 [11008:30364:0215/123245.555:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 15, 2018 12:32:45.55 [11008:30364:0215/123245.555:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 15, 2018 12:32:45.77 [11008:30364:0215/123245.770:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-130).
+2月 15, 2018 12:33:08.88 [11008:200:0215/123308.886:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:33:18.90 [11008:200:0215/123318.901:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:34:13.73 [11008:30364:0215/123413.732:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 12:34:43.19 [11008:30364:0215/123443.191:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 12:34:51.20 [11008:200:0215/123451.207:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:35:05.24 [11008:200:0215/123505.246:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:35:42.65 [11008:30364:0215/123542.656:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 12:37:23.84 [11008:30364:0215/123723.841:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 12:38:03.91 [11008:200:0215/123803.918:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:38:40.51 [11008:200:0215/123840.518:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:41:05.29 [11008:30364:0215/124105.292:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 12:45:35.02 [11008:200:0215/124535.020:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:45:48.59 [11008:200:0215/124548.598:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:47:40.48 [11008:30364:0215/124740.481:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 12:55:36.02 [11008:200:0215/125536.023:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 12:55:49.61 [11008:200:0215/125549.614:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 12:57:41.49 [11008:30364:0215/125741.494:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 13:05:37.02 [11008:200:0215/130537.028:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 13:05:50.62 [11008:200:0215/130550.628:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 13:07:42.50 [11008:30364:0215/130742.508:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 13:15:38.04 [11008:200:0215/131538.041:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 13:15:51.63 [11008:200:0215/131551.631:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 13:17:43.54 [11008:30364:0215/131743.527:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 13:25:39.04 [11008:200:0215/132539.049:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 13:25:52.64 [11008:200:0215/132552.646:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 13:27:44.53 [11008:30364:0215/132744.531:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 13:35:40.06 [11008:200:0215/133540.065:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 13:35:53.65 [11008:200:0215/133553.656:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 13:37:45.55 [11008:30364:0215/133745.550:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 13:45:41.08 [11008:200:0215/134541.087:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 13:45:54.66 [11008:200:0215/134554.666:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 14:17:43.39 [2756:54420:0215/141743.392:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 14:17:43.77 [2756:54420:0215/141743.622:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 14:17:51.40 [2756:48744:0215/141751.405:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 14:18:07.62 [2756:54420:0215/141807.620:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 14:18:13.05 [2756:54420:0215/141813.050:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 14:18:14.14 [2756:48744:0215/141814.142:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 14:18:30.53 [2756:48744:0215/141830.529:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 15, 2018 14:18:30.53 [2756:48744:0215/141830.529:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 15, 2018 14:19:02.50 [2756:48744:0215/141902.505:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 14:19:07.79 [2756:54420:0215/141907.797:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 14:19:09.20 [2756:54420:0215/141909.204:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 14:20:30.21 [2756:54420:0215/142030.216:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 14:20:34.51 [2756:48744:0215/142034.516:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 14:20:55.30 [2756:54420:0215/142055.304:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 14:23:28.24 [2756:54420:0215/142328.245:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 15, 2018 14:23:59.50 [2756:48744:0215/142359.508:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 15, 2018 14:24:30.17 [2756:54420:0215/142430.176:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 14:29:54.27 [2756:54420:0215/142954.279:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 15, 2018 14:30:09.54 [2756:48744:0215/143009.541:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+2月 19, 2018 13:11:27.67 NEW SESSION
+2月 19, 2018 13:11:27.67 [128828:92752:0219/131127.673:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:11:27.79 [128828:92752:0219/131127.764:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:11:50.13 [128828:92752:0219/131150.133:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:11:54.71 [128828:92752:0219/131154.715:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:12:10.91 [128828:94928:0219/131210.917:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-130).
+2月 19, 2018 13:12:11.01 [128828:94928:0219/131211.014:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 19, 2018 13:12:11.01 [128828:94928:0219/131211.014:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 19, 2018 13:12:37.28 [128828:92752:0219/131237.284:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:12:46.94 [128828:92752:0219/131246.941:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:14:34.23 [128828:92752:0219/131434.229:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:14:46.32 [128828:92752:0219/131446.328:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:17:54.56 [128828:92752:0219/131754.567:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:18:35.55 [128828:92752:0219/131835.555:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:18:37.99 [128828:94928:0219/131837.989:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:19:08.50 [128828:94928:0219/131908.505:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:20:02.22 [128828:94928:0219/132002.220:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:21:49.05 [128828:94928:0219/132149.057:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:23:48.23 [128828:92752:0219/132348.231:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:24:47.29 [128828:94928:0219/132447.290:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:25:32.54 [128828:92752:0219/132532.543:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:32:26.34 [128828:94928:0219/133226.340:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:33:49.23 [128828:92752:0219/133349.234:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:35:33.54 [128828:92752:0219/133533.548:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:42:30.76 [128828:94928:0219/134230.763:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:43:53.65 [128828:92752:0219/134353.655:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:45:37.97 [128828:92752:0219/134537.973:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 13:52:31.76 [128828:94928:0219/135231.767:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 13:53:54.66 [128828:92752:0219/135354.668:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 13:55:38.97 [128828:92752:0219/135538.976:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:02:32.77 [128828:94928:0219/140232.771:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:03:55.67 [128828:92752:0219/140355.671:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:05:39.98 [128828:92752:0219/140539.980:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:12:33.77 [128828:94928:0219/141233.777:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:13:05.63 [115548:123444:0219/141305.637:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:13:06.12 [115548:123444:0219/141306.128:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:13:29.64 [115548:123444:0219/141329.648:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:13:29.65 [115548:123444:0219/141329.654:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:13:43.61 [115548:119676:0219/141343.614:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 19, 2018 14:13:43.61 [115548:119676:0219/141343.614:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 19, 2018 14:14:18.31 [115548:123444:0219/141418.313:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:14:25.03 [115548:123444:0219/141425.034:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:15:48.70 [115548:123444:0219/141548.700:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:16:22.67 [115548:123444:0219/141622.669:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:18:46.21 [115548:123444:0219/141846.217:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:19:49.70 [115548:123444:0219/141949.702:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:25:15.64 [115548:123444:0219/142515.643:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:25:29.99 [115548:119676:0219/142529.998:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:25:37.90 [115548:123444:0219/142537.905:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:25:59.61 [115548:119676:0219/142559.610:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:26:54.33 [115548:119676:0219/142654.329:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:28:16.37 [115548:119676:0219/142816.371:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:31:14.76 [115548:119676:0219/143114.761:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:35:16.65 [115548:123444:0219/143516.650:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:35:38.93 [115548:123444:0219/143538.929:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:37:56.11 [115548:119676:0219/143756.114:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:45:17.67 [115548:123444:0219/144517.677:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:45:39.94 [115548:123444:0219/144539.942:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:47:57.13 [115548:119676:0219/144757.133:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 14:55:18.68 [115548:123444:0219/145518.685:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 14:55:40.94 [115548:123444:0219/145540.948:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 14:57:58.13 [115548:119676:0219/145758.138:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 15:05:19.69 [115548:123444:0219/150519.690:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 15:05:41.95 [115548:123444:0219/150541.950:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 15:07:59.14 [115548:119676:0219/150759.143:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 19, 2018 15:15:20.71 [115548:123444:0219/151520.714:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 19, 2018 15:15:42.97 [115548:123444:0219/151542.970:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 19, 2018 15:18:00.16 [115548:119676:0219/151800.156:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+2月 20, 2018 21:35:05.51 NEW SESSION
+2月 20, 2018 21:35:05.51 [8992:12300:0220/213505.516:ERROR:default_component_installer.cc(276)] Failed to read manifest or verify installation for Adobe Flash Player ().: 系统找不到指定的文件。 (0x2)
+2月 20, 2018 21:35:07.30 [8992:12300:0220/213507.306:ERROR:default_component_installer.cc(276)] Failed to read manifest or verify installation for Software Reporter Tool ().: 系统找不到指定的文件。 (0x2)
+2月 20, 2018 21:35:12.53 [8992:10972:0220/213512.533:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:35:12.71 [8992:10972:0220/213512.713:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:35:35.35 [8992:10972:0220/213535.355:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:35:35.83 [8992:10972:0220/213535.833:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:36:00.14 [8992:2336:0220/213600.143:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-130).
+2月 20, 2018 21:36:00.49 [8992:2336:0220/213600.494:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 20, 2018 21:36:00.49 [8992:2336:0220/213600.494:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 20, 2018 21:36:28.56 [8992:10972:0220/213628.568:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:36:32.49 [8992:10972:0220/213632.490:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:37:36.29 [8992:2336:0220/213736.294:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 21:38:05.39 [8992:2336:0220/213805.394:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 21:38:24.57 [8992:10972:0220/213824.579:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:38:32.27 [8992:10972:0220/213832.277:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:38:58.05 [8992:2336:0220/213858.056:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 21:40:55.32 [8992:2336:0220/214055.323:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 21:41:14.31 [8992:10972:0220/214114.309:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:41:29.50 [8992:10972:0220/214129.503:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:43:54.44 [8992:2336:0220/214354.443:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 21:47:14.76 [8992:10972:0220/214714.763:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:47:32.01 [8992:10972:0220/214732.009:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:49:25.14 [8992:2336:0220/214925.145:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 21:57:15.78 [8992:10972:0220/215715.782:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 21:57:33.04 [8992:10972:0220/215733.043:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 21:59:26.15 [8992:2336:0220/215926.150:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 22:07:16.78 [8992:10972:0220/220716.789:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 22:07:34.04 [8992:10972:0220/220734.046:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 22:09:27.15 [8992:2336:0220/220927.153:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 22:17:17.79 [8992:10972:0220/221717.793:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 22:17:35.05 [8992:10972:0220/221735.049:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 22:19:28.15 [8992:2336:0220/221928.158:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 22:27:18.80 [8992:10972:0220/222718.802:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 22:27:36.05 [8992:10972:0220/222736.052:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 22:29:29.16 [8992:2336:0220/222929.165:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 22:37:19.80 [8992:10972:0220/223719.806:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 22:37:37.05 [8992:10972:0220/223737.058:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 22:39:30.16 [8992:2336:0220/223930.168:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 22:47:20.81 [8992:10972:0220/224720.809:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 22:47:38.06 [8992:10972:0220/224738.063:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 22:49:31.17 [8992:2336:0220/224931.172:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 22:57:21.81 [8992:10972:0220/225721.813:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 22:57:39.06 [8992:10972:0220/225739.065:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 22:59:32.17 [8992:2336:0220/225932.176:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 23:07:22.81 [8992:10972:0220/230722.818:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 23:07:40.07 [8992:10972:0220/230740.072:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 23:09:33.18 [8992:2336:0220/230933.181:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 20, 2018 23:17:23.82 [8992:10972:0220/231723.820:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 20, 2018 23:17:41.94 [8992:10972:0220/231741.075:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 20, 2018 23:19:34.18 [8992:2336:0220/231934.189:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+2月 21, 2018 12:37:03.29 NEW SESSION
+2月 21, 2018 12:37:03.29 [7900:5016:0221/123703.287:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+2月 21, 2018 12:37:04.41 [7900:5016:0221/123703.288:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\姹畯鏂孿AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\姹畯鏂孿AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+2月 21, 2018 12:37:04.43 [7900:5016:0221/123703.288:ERROR:disk_cache.cc(132)] Unable to create cache
+2月 21, 2018 12:37:04.45 [7900:5016:0221/123703.288:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+2月 21, 2018 12:37:30.06 [7900:5016:0221/123730.069:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 12:37:30.73 [7900:5016:0221/123730.736:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 12:37:54.19 [7900:5016:0221/123754.197:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 12:37:55.68 [7900:5016:0221/123755.679:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 12:38:29.09 [7900:11732:0221/123829.094:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 21, 2018 12:38:29.68 [7900:11732:0221/123829.094:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 21, 2018 12:38:41.79 [7900:5016:0221/123841.798:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 12:38:54.88 [7900:5016:0221/123854.880:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 12:40:04.12 [7900:5016:0221/124004.125:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 12:40:47.54 [7900:5016:0221/124047.539:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 12:42:49.49 [7900:5016:0221/124249.495:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 12:44:18.85 [7900:5016:0221/124418.850:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 12:48:09.58 [7900:11732:0221/124809.585:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 12:48:40.35 [7900:11732:0221/124840.358:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 12:49:30.38 [7900:5016:0221/124930.384:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 12:49:33.13 [7900:11732:0221/124933.134:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 12:51:18.54 [7900:11732:0221/125118.548:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 12:51:24.68 [7900:5016:0221/125124.686:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 12:55:17.41 [7900:11732:0221/125517.411:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 12:59:31.39 [7900:5016:0221/125931.389:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 13:01:25.69 [7900:5016:0221/130125.689:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 13:02:32.46 [7900:11732:0221/130232.461:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 13:09:32.39 [7900:5016:0221/130932.397:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 13:11:26.69 [7900:5016:0221/131126.693:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 13:12:33.48 [7900:11732:0221/131233.486:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+
+2月 21, 2018 18:12:10.75 NEW SESSION
+2月 21, 2018 18:12:10.75 [3524:11140:0221/181210.745:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:12:11.04 [3524:11140:0221/181210.896:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:12:15.15 [3272:7192:0221/181215.148:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+2月 21, 2018 18:12:15.15 [3272:7192:0221/181215.149:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\姹畯鏂孿AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\姹畯鏂孿AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+2月 21, 2018 18:12:15.15 [3272:7192:0221/181215.149:ERROR:disk_cache.cc(132)] Unable to create cache
+2月 21, 2018 18:12:15.15 [3272:7192:0221/181215.150:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+2月 21, 2018 18:12:39.04 [3524:11140:0221/181239.039:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:12:41.01 [3524:11140:0221/181241.009:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:13:22.13 [3524:6072:0221/181322.137:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 21, 2018 18:13:22.13 [3524:6072:0221/181322.137:ERROR:account_tracker.cc(356)] OnGetTokenFailure: Connection failed (-130).
+2月 21, 2018 18:13:25.11 [3524:11140:0221/181325.110:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:13:39.03 [3524:11140:0221/181339.033:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:14:11.01 [3524:6072:0221/181411.012:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:14:32.43 [3524:6072:0221/181432.431:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:15:16.28 [3524:11140:0221/181516.278:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:15:22.10 [3524:6072:0221/181522.100:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:15:28.02 [3524:11140:0221/181528.024:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:16:51.35 [3524:6072:0221/181651.352:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:18:23.61 [3524:11140:0221/181823.614:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:18:46.37 [3524:11140:0221/181846.376:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:20:35.87 [3524:6072:0221/182035.878:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:26:21.16 [3524:11140:0221/182621.162:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:26:27.75 [3524:6072:0221/182627.750:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:26:41.16 [3524:11140:0221/182641.163:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:36:22.16 [3524:11140:0221/183622.164:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:36:28.75 [3524:6072:0221/183628.753:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:36:42.17 [3524:11140:0221/183642.170:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:46:24.06 [3524:11140:0221/184623.169:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:46:29.75 [3524:6072:0221/184629.757:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:46:43.17 [3524:11140:0221/184643.174:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 18:56:24.17 [3524:11140:0221/185624.172:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 18:56:30.76 [3524:6072:0221/185630.759:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 18:56:44.18 [3524:11140:0221/185644.181:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 19:06:25.24 [3524:11140:0221/190625.241:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 19:06:31.76 [3524:6072:0221/190631.765:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 19:06:45.21 [3524:11140:0221/190645.216:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.
+2月 21, 2018 19:16:26.25 [3524:11140:0221/191626.257:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -130
+2月 21, 2018 19:16:32.86 [3524:6072:0221/191632.864:ERROR:gcm_channel_status_request.cc(127)] GCM channel request failed.
+2月 21, 2018 19:16:46.21 [3524:11140:0221/191646.219:ERROR:checkin_request.cc(211)] Failed to get checkin response. Fetcher failed. Retrying.

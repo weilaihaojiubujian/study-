@@ -1,0 +1,9 @@
+package springDemo;
+
+public class HelloBean {
+
+	public HelloBean() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
