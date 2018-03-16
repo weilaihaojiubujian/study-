@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MicroMessage/src/com/imooc/config/sqlxml/User.xml&apos; to &apos;Message.xml&apos;" description="Rename resource &apos;User.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/imooc/config/sqlxml/User.xml" name="Message.xml" stamp="1520744030480" updateReferences="true"/>
+</session>

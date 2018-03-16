@@ -1,0 +1,9 @@
+package com.imooc.service;
+
+public class ListService {
+
+	public ListService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

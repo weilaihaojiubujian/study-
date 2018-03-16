@@ -13,6 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.imooc.bean.Message;
+import com.imooc.service.ListService;
 import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.PreparedStatement;
 
@@ -23,50 +24,28 @@ import com.mysql.jdbc.PreparedStatement;
 public class ListServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-	try {
+	
+		//设置编码
 		req.setCharacterEncoding("UTF-8");
+		//接受页面的值
 		String command=req.getParameter("command");
 		String description=req.getParameter("description");
+		//向页面传值
 		req.setAttribute("command",command);
 		req.setAttribute("description",description);
-		Class.forName("com.mysql.jdbc.Driver");
-		Connection conn=(Connection) DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/shopping","root","1004758012");
-		StringBuilder sql=new StringBuilder("select ID,COMMAND,DESCRIPTION,CONTENT from message where 1=1");
-		List<String>paramList=new ArrayList<String>();
-		if(command!=null&&!"".equals(command.trim()))
-		{
-			sql.append("and COMMAND=?");
-			paramList.add(command);
+		
+		ListService listService=new ListService();
+		//查询消息列表并传给页面
+		try {
+			req.setAttribute("messageList", listService.queryMessageList(command,description));
+			req.getRequestDispatcher("/WEB-INF/jsp/back/list.jsp").forward(req, resp);
+		} 
+		
+		catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
-		if(description!=null&&!"".equals(description.trim()))
-		{
-			sql.append("and DESCRIPTION'%'?'%'");
-			paramList.add(description);
-		}
-		PreparedStatement statement=(PreparedStatement) conn.prepareStatement(sql.toString());
-		for(int i=0;i<paramList.size();i++) {
-			statement.setString(i+1,paramList.get(i));
-		}
-		ResultSet rs=statement.executeQuery();
-		List<Message>messageList=new ArrayList<Message>(); 
-		while(rs.next())
-		{
-			Message message=new Message();
-			messageList.add(message);
-			message.setId(rs.getString("ID"));
-			message.setCommand(rs.getString("COMMAND"));
-			message.setDescription(rs.getString("DESCRIPTION"));
-			message.setContent(rs.getString("CONTENT"));
-		}
-		req.setAttribute("messageList", messageList);
-	} catch (ClassNotFoundException e) {
-		// TODO Auto-generated catch block
-		e.printStackTrace();
-	} catch (SQLException e) {
-		// TODO Auto-generated catch block
-		e.printStackTrace();
-	}
-		req.getRequestDispatcher("/WEB-INF/jsp/back/list.jsp").forward(req, resp);
+	//向页面跳转
 	}
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

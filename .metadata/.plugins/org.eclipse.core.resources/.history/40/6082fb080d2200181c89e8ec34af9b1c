@@ -1,0 +1,9 @@
+package com.imooc.mvcdemo.service;
+
+public class CourseService {
+
+	public CourseService() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

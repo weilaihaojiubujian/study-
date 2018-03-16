@@ -2,13 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.demo"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="qfff"/>
-			<item value="json"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -66,6 +63,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\jee\webdemo"/>
 			<item value="E:\jee\json"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -79,12 +77,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.demo.seckill"/>
+			<item value="com.demo.web"/>
+			<item value="com.demo"/>
 			<item value="org.qfff"/>
 		</list>
 		<list key="groupId">
 			<item value="com.demo"/>
 		</list>
 		<list key="artifactId">
+			<item value="seckill"/>
+			<item value="web"/>
 			<item value="qfff"/>
 		</list>
 		<list key="projectNameTemplate">

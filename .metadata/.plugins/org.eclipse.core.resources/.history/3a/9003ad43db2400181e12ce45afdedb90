@@ -1,0 +1,9 @@
+package com.imooc.db;
+
+public class DBAccess {
+
+	public DBAccess() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

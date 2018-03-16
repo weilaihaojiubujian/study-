@@ -1,0 +1,9 @@
+package com.imooc.mvcdemo.service.impl;
+
+public class CourseServiceImpl {
+
+	public CourseServiceImpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

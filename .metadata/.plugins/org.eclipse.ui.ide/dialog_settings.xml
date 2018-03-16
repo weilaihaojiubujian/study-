@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\汪宏斌\Desktop\新建文件夹 (5)\study-imooc-master\32-my-seckill"/>
+		<item value="C:\Users\汪宏斌\Desktop\新建文件夹 (5)\study-imooc-master\04-my-myspringmvcinterceptor"/>
+		<item value="C:\Users\汪宏斌\Desktop\新建文件夹 (5)\study-imooc-master\02-my-myspringtransactions"/>
 		<item value="C:\Users\汪宏斌\Desktop\新建文件夹 (5)\study-imooc-master\22-my-imagecheck"/>
 		<item value="E:\jee\yanyan-master"/>
 	</list>
@@ -16,6 +19,10 @@
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item value="Aggregate for window 1509864914840" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
+		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
 	</section>
 	<section name="NewWizardAction">
 		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>

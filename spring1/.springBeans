@@ -16,6 +16,9 @@
 		<config>src/Spring4.xml</config>
 		<config>src/Spring5.xml</config>
 		<config>src/Spring6.xml</config>
+		<config>src/Spring7.xml</config>
+		<config>src/Spring8.xml</config>
+		<config>src/Spring9.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>

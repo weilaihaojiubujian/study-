@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="32-my-seckill_seckill">
+<aspect-definition advice-class-name="org.springframework.transaction.interceptor.TransactionInterceptor" advice-method-name="invoke" advice-method-parameter-types="org.aopalliance.intercept.MethodInvocation" advice-type="AROUND" aspect-end-line-number="22" aspect-name="org.springframework.transaction.interceptor.TransactionInterceptor#32-my-seckill_seckill#src/main/resources/spring/spring-service.xml#22" aspect-start-line-number="22" factory-id="org.springframework.ide.eclipse.aop.core.javaAdvisorDefinitionElementFactory" file="/32-my-seckill_seckill/src/main/resources/spring/spring-service.xml" pointcut-expression="(@within(org.springframework.transaction.annotation.Transactional) || @annotation(org.springframework.transaction.annotation.Transactional)) &amp;&amp; execution(* *..*(..))" proxy-target-class="false">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:32-my-seckill_seckill|3:src/main/resources/spring/spring-service.xml|7:beans:8|8:seckillServiceImpl:8" bean-file="/32-my-seckill_seckill/src/main/resources/spring/spring-service.xml" bean-start-line="8" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/32-my-seckill_seckill/src/main/resources/spring/spring-service.xml" source="=32-my-seckill_seckill/E:\/m2\/repository\/org\/springframework\/spring-tx\/4.3.9.RELEASE\/spring-tx-4.3.9.RELEASE.jar&lt;org.springframework.transaction.interceptor(TransactionInterceptor.class[TransactionInterceptor~invoke~Lorg.aopalliance.intercept.MethodInvocation;" source-start-line="-1" target="=32-my-seckill_seckill/src\/main\/java&lt;com.myimooc.seckill.service.impl{SeckillServiceImpl.java[SeckillServiceImpl~executeSeckill~J~J~QString;" target-start-line="118"/>
+</aspect-definition>
+</aop-project>
 <aop-project name="identifying"/>
 <aop-project name="spring1"/>
+<aop-project name="02-my-myspringtransactions"/>
+<aop-project name="web"/>
 </aop-reference-model>

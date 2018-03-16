@@ -1,0 +1,9 @@
+package org.seckill.dao;
+
+public class SeckillDao {
+
+	public SeckillDao() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

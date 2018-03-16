@@ -1,0 +1,9 @@
+package com.imooc.dao;
+
+public class MessageDao {
+
+	public MessageDao() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

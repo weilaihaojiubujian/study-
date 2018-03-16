@@ -1,0 +1,9 @@
+package com.myimooc.seckill.dao;
+
+public class SuccessKilledDaoTest {
+
+	public SuccessKilledDaoTest() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
